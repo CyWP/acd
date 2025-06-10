@@ -1,0 +1,5 @@
+torch
+pillow
+datasets
+transformers
+tqdm
