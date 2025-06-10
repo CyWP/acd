@@ -1,0 +1,6 @@
+torch
+pillow
+yaml
+timm
+datasets
+tqdm
